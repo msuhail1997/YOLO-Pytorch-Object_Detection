@@ -8,7 +8,7 @@ Implementation of YOLOv1 in Pytorch for Object Detection.
 
 Example outputs : 
 
-![](yolo1.png)
+![](7.6.1.png)
 ![](im2_1(1).png)
 
 
