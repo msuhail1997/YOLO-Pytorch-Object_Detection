@@ -9,19 +9,10 @@ Implementation of YOLOv1 in Pytorch for Object Detection.
 Example outputs : 
 
 ![](7.6.1.png)
-![](7.6.1.4.png)
-
-
-
-![](im2_3(1).png)
+![](7.6.1.1.png)
 
 
 After performing non max suppresion on outputs and assigning classes to traffic lights, persons and vehicles: 
 
-![](yolo1.png)
-
-![](im2_1(1).png)
-
-
-
-![](im2_3(1).png)
+![](7.6.4.png)
+![](7.6.1.4.png)
