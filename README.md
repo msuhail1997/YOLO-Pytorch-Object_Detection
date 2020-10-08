@@ -12,7 +12,7 @@ Example outputs :
 ![](7.6.1.1.png)
 
 
-After performing non max suppresion on outputs and assigning classes to traffic lights, persons and vehicles: 
+After performing NMS (Non Max Suppression) on outputs and assigning classes to traffic lights, persons and vehicles: 
 
 ![](7.6.4.png)
 ![](7.6.1.4.png)
