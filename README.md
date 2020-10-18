@@ -1,6 +1,6 @@
-# YOLOv1-Pytorch
+# YOLO-Pytorch
 
-Implementation of YOLOv1 in Pytorch for Object Detection.
+Implementation of YOLO in Pytorch for Object Detection.
 
 Paper Link: (https://arxiv.org/abs/1506.02640)
 
