@@ -10,9 +10,6 @@ Paper Link: (https://arxiv.org/abs/1506.02640)
 
 Example outputs :  
 
-![](7.6.1.png)
-![](7.6.1.1.png)
-
 
 After performing NMS (Non Max Suppression) on outputs and assigning classes to pedestrians, traffic lights and cars.
 
