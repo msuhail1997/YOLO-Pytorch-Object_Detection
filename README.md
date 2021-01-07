@@ -13,8 +13,7 @@ Example outputs :
 
 After performing NMS (Non Max Suppression) on outputs and assigning classes to pedestrians, traffic lights and cars.
 
-<img src="image8.png" width="300" height="300"/>
-<img src="7.6.4.png" width="300" height="300"/>
+<img src="image8.png" width="300" height="300"/> <img src="7.6.4.png" width="300" height="300"/>
 
 
 
