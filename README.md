@@ -14,4 +14,4 @@ Example outputs :
 After performing NMS (Non Max Suppression) on outputs and assigning classes to pedestrians, traffic lights and cars.
 
 ![](7.6.4.png)
-![](7.6.1.4.png)
+![](image8.png)
