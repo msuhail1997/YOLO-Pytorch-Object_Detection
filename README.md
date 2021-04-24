@@ -1,4 +1,4 @@
-# YOLO-Pytorch
+# Object Detection with YOLO-Pytorch
 
 Implementation of YOLO in Pytorch for Object Detection.
 
